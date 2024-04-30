@@ -1,8 +1,8 @@
 # PROJECT AKHIR ASD&DBMS
 
-## Sistem Informasi Perkotaan dan Pemukiman Berkelanjutan (SIP2B)
+## Sistem Informasi Keanekaragaman Hayati
 
-## KELOMPOK 2 / B / 2024
+## KELOMPOK 8 / B / 2023
 
 - Muhammad Fahrezi	(2309116088)
 
