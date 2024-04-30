@@ -1,5 +1,4 @@
-import mysql.connector
-from prettytable import PrettyTable
+Cara Penggunaanya
 
 def connect_database():
     try:
