@@ -1,18 +1,5 @@
 Cara Penggunaanya
 
-def connect_database():
-    try:
-        conn = mysql.connector.connect(
-            host="localhost",   
-            user="root",
-            password="",
-            database="ragam_hayati"
-        )
-        print("Koneksi ke database berhasil!")
-        return conn
-    except mysql.connector.Error as err:
-        print("Error:", err)                                
-        return None
 # Kelas untuk entitas Satwa
 class Satwa:
     def __init__(self, conn):
